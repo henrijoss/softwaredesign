@@ -1,0 +1,11 @@
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_3_optimiert/bin/Debug/netcoreapp2.1/Aufgabe_3_optimiert.deps.json
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_3_optimiert/bin/Debug/netcoreapp2.1/Aufgabe_3_optimiert.runtimeconfig.json
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_3_optimiert/bin/Debug/netcoreapp2.1/Aufgabe_3_optimiert.runtimeconfig.dev.json
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_3_optimiert/bin/Debug/netcoreapp2.1/Aufgabe_3_optimiert.dll
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_3_optimiert/bin/Debug/netcoreapp2.1/Aufgabe_3_optimiert.pdb
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_3_optimiert/obj/Debug/netcoreapp2.1/Aufgabe_3_optimiert.csprojAssemblyReference.cache
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_3_optimiert/obj/Debug/netcoreapp2.1/Aufgabe_3_optimiert.csproj.CoreCompileInputs.cache
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_3_optimiert/obj/Debug/netcoreapp2.1/Aufgabe_3_optimiert.AssemblyInfoInputs.cache
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_3_optimiert/obj/Debug/netcoreapp2.1/Aufgabe_3_optimiert.AssemblyInfo.cs
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_3_optimiert/obj/Debug/netcoreapp2.1/Aufgabe_3_optimiert.dll
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_3_optimiert/obj/Debug/netcoreapp2.1/Aufgabe_3_optimiert.pdb
