@@ -18,7 +18,7 @@ namespace Aufgabe_3
                     int number = int.Parse(Console.ReadLine());
                     Console.WriteLine(ConvertNumberFromSystemToSystem(number, fromSystem, toSystem));
                 } else {
-                        Console.WriteLine("One of the Systems must have Base 10!");
+                        Console.WriteLine("One of the Systems must have Base 10");
                 }
             } catch {
                 Console.WriteLine("Your inputs must be numbers!");
@@ -29,6 +29,7 @@ namespace Aufgabe_3
                 int result = 0;
                 result = OtherToDecimal(number, fromSystem);
                 result = DecimalToOther(result, toSystem);
+                Console.Write("The number " + number + " from system with base " + fromSystem + " to system with base " + toSystem + " is Converted: ");
                 return result;
             }
 
@@ -46,18 +47,18 @@ namespace Aufgabe_3
                 return result;
             }
 
-            static int OtherToDecimal(int other, int system)
+        static int OtherToDecimal(int other, int system)
+        {
+            int result = 0;
+            int factor = 1;
+            while (other != 0)
             {
-                int result = 0;
-                int factor = 1;
-                while (other != 0)
-                {
-                    int digit = other % 10;
-                    other /= 10;
-                    result += factor * digit;
-                    factor *= system;
-                }
-                return result;
-            }    
+                int digit = other % 10;
+                other /= 10;
+                result += factor * digit;
+                factor *= system;
+            }
+            return result;
+        }    
     }
 }
