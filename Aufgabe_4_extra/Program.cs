@@ -12,29 +12,24 @@ namespace Aufgabe_4_extra
             Console.WriteLine(ReverseSentence(sentence));
 
         }
-        public static string ReverseLetters(string sentence)
+        public static string ReverseByLetter(string sentence)
         {   
             char[] charArray = sentence.ToCharArray();
             Array.Reverse(charArray);
             return new string(charArray);
         }
-        public static string ReverseWords(string sentence) 
+        public static string ReverseByWord(string sentence) 
         {
             string[] words = sentence.Split(' ');
             Array.Reverse(words);
             sentence = String.Join(" ", words);
             return sentence;
         }
-        public static string ReverseSentence(string sentence) 
+        public static string ReverseEachWordByLetterButKeepWordOrder(string sentence) 
         {
-            string[] words = sentence.Split(' ');
-            StringBuilder sb = new StringBuilder();
-            for (int i = 0; i < words.Length; i++) 
-            {
-                sb.Append(ReverseLetters(words[i]));
-                sb.Append(" ");            
-            }
-            return sb.ToString();
+            string reversedLetters = ReverseByLetter(reversedWords)
+            string wordsReversedByLetter = ReverseByWord(reversedLetters);
+            return wordsReversedByLetter;
         }
     }
 }
