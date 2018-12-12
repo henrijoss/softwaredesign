@@ -55,11 +55,14 @@ namespace Aufgabe_7
             int randomQuizElement = Random();
             listOfQuestions[randomQuizElement].show();
             string choice = Console.ReadLine();
-            if (listOfQuestions[randomQuizElement].isAnswerCorrect(choice)) {
+            if (listOfQuestions[randomQuizElement].isAnswerCorrect(choice)) 
+            {
                 Console.WriteLine("Correct Answer! \n");
                 score ++;
                 answeredQuestions++;
-            } else {
+            } 
+            else 
+            {
                 Console.WriteLine("Wrong Answer! \n");
                 score --;
             }
