@@ -12,7 +12,8 @@ namespace Aufgabe_7
         static void Main(string[] args)
         {
             int userInput = 0;
-            do {
+            do 
+            {
                 Console.WriteLine("Score: " + score + "\nAnswered qestions: " + answeredQuestions + "\nWhat do you want to do ? \n 1) Play Quiz \n 2) Add Quizelement \n 3) Quit");
                 userInput = Int32.Parse(Console.ReadLine());
                 switch(userInput)
@@ -51,7 +52,7 @@ namespace Aufgabe_7
             listOfQuestions.Add( new QuizGuess("When was C# developed? (year)", 2000));
             listOfQuestions.Add( new QuizFree("Which datatype in C# should be more preferred for storing a simple number like 35 to improve execution speed of a program ?", "sbyte"));
 
-            int randomQuizElement = random();
+            int randomQuizElement = Random();
             listOfQuestions[randomQuizElement].show();
             string choice = Console.ReadLine();
             if (listOfQuestions[randomQuizElement].isAnswerCorrect(choice)) {
@@ -64,7 +65,8 @@ namespace Aufgabe_7
             }
         }
 
-        public static int random() {
+        public static int Random() 
+        {
             Random rnd = new Random();
             int rInt = rnd.Next(listOfQuestions.Count);
             return rInt;
@@ -79,25 +81,25 @@ namespace Aufgabe_7
             switch(questionType)
             {
                 case "1":
-                    listOfQuestions.Add(newQuizSingle(question));
+                    listOfQuestions.Add(NewQuizSingle(question));
                     break;
                 case "2":
-                    listOfQuestions.Add(newQuizMultiple(question));
+                    listOfQuestions.Add(NewQuizMultiple(question));
                     break;
                 case "3":
-                    listOfQuestions.Add(newQuizBinary(question));
+                    listOfQuestions.Add(NewQuizBinary(question));
                     break;
                 case "4":
-                    listOfQuestions.Add(newQuizFree(question));
+                    listOfQuestions.Add(NewQuizFree(question));
                     break;
                 case "5":
-                    listOfQuestions.Add(newQuizFree(question));
+                    listOfQuestions.Add(NewQuizFree(question));
                     break;
             }
             Console.WriteLine("Your quizelement has been added successfully");
         }
 
-        public static Quizelement newQuizSingle(string question) 
+        public static Quizelement NewQuizSingle(string question) 
         {
             Console.WriteLine("How many possible answers should the question have?");
             int numberOfAnswers = Int32.Parse(Console.ReadLine());
@@ -112,7 +114,7 @@ namespace Aufgabe_7
             return new QuizSingle(question, arrayOfAnswers);
         }
 
-        public static Quizelement newQuizMultiple(string question) 
+        public static Quizelement NewQuizMultiple(string question) 
         {
             Console.WriteLine("How many possible answers should the question have?");
             int numberOfAnswers = Int32.Parse(Console.ReadLine());
@@ -128,20 +130,20 @@ namespace Aufgabe_7
             return new QuizSingle(question, arrayOfAnswers);
         }
 
-        public static Quizelement newQuizBinary(string question) 
+        public static Quizelement NewQuizBinary(string question) 
         {
             Console.WriteLine("Is the answer correct? (y/n)");
             bool theAnswer = Console.ReadLine() == "y";
             return new QuizBinary(question, theAnswer);
         }
 
-        public static Quizelement newQuizGuess(string question) 
+        public static Quizelement NewQuizGuess(string question) 
         {
             Console.WriteLine("What is the correct number?");
             return new QuizGuess(question, Int32.Parse(Console.ReadLine()));
         }
 
-        public static Quizelement newQuizFree(string question) 
+        public static Quizelement NewQuizFree(string question) 
         {
             Console.WriteLine("What is the correct answer?");
             return new QuizFree(question, Console.ReadLine());
