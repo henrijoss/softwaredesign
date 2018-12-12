@@ -30,11 +30,12 @@ namespace Aufgabe_7
                         Console.WriteLine("Please choose one of the options (1/2/3) \n");
                         break;
                 }
-            } while (userInput != 3);
+            } while (userInput != 3); // besser while(true), dann erkennt man, dass es eine Endlosschleife ist, die im Rumpf einen Abbruch bereitstellen muss
         }
 
         static public void StartQuiz()
         {
+            // man könnte die Klasse so bereit stellen, dass der Verwender die innere Struktur und die Klasse Answer nicht kennen muss
             listOfQuestions.Add(new QuizSingle("The C# keyword \"int\" maps to which .NET type?", new Answer[] {
                 new Answer("System.Int16", false),
                 new Answer("System.Int32", true),
@@ -48,7 +49,7 @@ namespace Aufgabe_7
                 new Answer("It is a part of .Net Framework.", true)
             }) );
             listOfQuestions.Add( new QuizBinary("Does C# support multiple inheritance?", false));
-            listOfQuestions.Add( new QuizGuess("When was C# developed? (year)", 2000));
+            listOfQuestions.Add( new QuizGuess("When was C# developed? (year)", 2000)); // die Toleranz sollte festgelegt werden
             listOfQuestions.Add( new QuizFree("Which datatype in C# should be more preferred for storing a simple number like 35 to improve execution speed of a program ?", "sbyte"));
 
             int randomQuizElement = random();
@@ -56,8 +57,8 @@ namespace Aufgabe_7
             string choice = Console.ReadLine();
             if (listOfQuestions[randomQuizElement].isAnswerCorrect(choice)) {
                 Console.WriteLine("Correct Answer! \n");
-                score ++;
-                answeredQuestions++;
+                score ++; // Formatierung... Leerzeichen...
+                answeredQuestions++; //... oder nicht?
             } else {
                 Console.WriteLine("Wrong Answer! \n");
                 score --;
@@ -65,7 +66,7 @@ namespace Aufgabe_7
         }
 
         public static int random() {
-            Random rnd = new Random();
+            Random rnd = new Random(); // wahrscheinlich ist es besser, rnd bei Programmstart zu erzeugen und ab dann nur noch Next zu nutzen
             int rInt = rnd.Next(listOfQuestions.Count);
             return rInt;
         }
@@ -94,17 +95,19 @@ namespace Aufgabe_7
                     listOfQuestions.Add(newQuizFree(question));
                     break;
             }
-            Console.WriteLine("Your quizelement has been added successfully");
+            Console.WriteLine("Your quizelement has been added successfully"); // er scheint, als käme die Meldung auch bei ungültigen Zahlen
         }
 
-        public static Quizelement newQuizSingle(string question) 
+        // schöne Idee mit diesen "Factories", allerdings könnte man diese auch in die Subklassen packen, dann müsste das Hauptprogramm nicht so schlau sein
+        // und neue Quiztypen erweitern es kaum, sondern deren Funktionalität ist dann vollständig gekapselt.
+        public static Quizelement newQuizSingle(string question)  // allerdings ist "new" keine Aktivität. "create" ist besser
         {
             Console.WriteLine("How many possible answers should the question have?");
             int numberOfAnswers = Int32.Parse(Console.ReadLine());
             Answer[] arrayOfAnswers = new Answer[numberOfAnswers];
             Console.WriteLine("Type in the correct answer:");
             arrayOfAnswers[0] = new Answer(Console.ReadLine(), true);
-            for (int i = 1; i < numberOfAnswers; i++) 
+            for (int i = 1; i < numberOfAnswers; i++)
             {
                 Console.WriteLine("Type in a wrong answer:");
                 arrayOfAnswers[i] = new Answer(Console.ReadLine(), false);
