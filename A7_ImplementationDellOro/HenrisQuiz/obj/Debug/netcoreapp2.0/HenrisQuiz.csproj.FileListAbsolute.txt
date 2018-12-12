@@ -1,0 +1,11 @@
+C:\Users\Jirka\Documents\HFU\SoftwareDesignCode\HenrisQuiz\bin\Debug\netcoreapp2.0\HenrisQuiz.deps.json
+C:\Users\Jirka\Documents\HFU\SoftwareDesignCode\HenrisQuiz\bin\Debug\netcoreapp2.0\HenrisQuiz.runtimeconfig.json
+C:\Users\Jirka\Documents\HFU\SoftwareDesignCode\HenrisQuiz\bin\Debug\netcoreapp2.0\HenrisQuiz.runtimeconfig.dev.json
+C:\Users\Jirka\Documents\HFU\SoftwareDesignCode\HenrisQuiz\bin\Debug\netcoreapp2.0\HenrisQuiz.dll
+C:\Users\Jirka\Documents\HFU\SoftwareDesignCode\HenrisQuiz\bin\Debug\netcoreapp2.0\HenrisQuiz.pdb
+C:\Users\Jirka\Documents\HFU\SoftwareDesignCode\HenrisQuiz\obj\Debug\netcoreapp2.0\HenrisQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Jirka\Documents\HFU\SoftwareDesignCode\HenrisQuiz\obj\Debug\netcoreapp2.0\HenrisQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Jirka\Documents\HFU\SoftwareDesignCode\HenrisQuiz\obj\Debug\netcoreapp2.0\HenrisQuiz.AssemblyInfoInputs.cache
+C:\Users\Jirka\Documents\HFU\SoftwareDesignCode\HenrisQuiz\obj\Debug\netcoreapp2.0\HenrisQuiz.AssemblyInfo.cs
+C:\Users\Jirka\Documents\HFU\SoftwareDesignCode\HenrisQuiz\obj\Debug\netcoreapp2.0\HenrisQuiz.dll
+C:\Users\Jirka\Documents\HFU\SoftwareDesignCode\HenrisQuiz\obj\Debug\netcoreapp2.0\HenrisQuiz.pdb

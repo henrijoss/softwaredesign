@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Jirka\\Documents\\HFU\\SoftwareDesignCode\\HenrisQuiz\\HenrisQuiz.csproj",
+  "TargetFramework": "netcoreapp2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
