@@ -13,7 +13,7 @@ namespace Aufgabe_7
         public override void show()
         {
             Console.WriteLine(question);
-            for (int i = 0; i < this.answers.Length; i++)
+            for (int i = 0; i < this.answers.Length; i++) // da auf Position 0 immer die richtige Antwort sitzt, ist diese Ausgabe ohne zufällige Funktionalität recht witzlos
             {
                 int questionNumber = i + 1;
                 Console.WriteLine(questionNumber + ") " + this.answers[i].text);
