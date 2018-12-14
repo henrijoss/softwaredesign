@@ -1,0 +1,61 @@
+[
+  {
+    "type": "Single",
+    "question": "The C# keyword \"int\" maps to which .NET type?",
+    "answers": [
+      {
+        "text": "System.Int16",
+        "isTrue": false
+      },
+      {
+        "text": "System.Int32",
+        "isTrue": true
+      },
+      {
+        "text": "System.Int64",
+        "isTrue": false
+      },
+      {
+        "text": "System.Int128",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "type": "Multiple",
+    "question": "Which of the following is isTrue about C# ?",
+    "answers": [
+      {
+        "text": "It is component oriented.",
+        "isTrue": true
+      },
+      {
+        "text": "It can be compiled on a variety of computer platforms.",
+        "isTrue": true
+      },
+      {
+        "text": "It was developed by Apple.",
+        "isTrue": false
+      },
+      {
+        "text": "It is a part of .Net Framework",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "type": "Binary",
+    "question": "Does C# support multiple inheritance ?",
+    "correct": true
+  },
+  {
+    "type": "Guess",
+    "question": "When was C# developed? (year)",
+    "correct": 2000
+  },
+  {
+    "type": "Free",
+    "question": "Which datatype in C# should be more preferred for storing a simple number like 35 to improve execution speed of a program ?",
+    "correct": "sbyte"
+  }
+]
