@@ -1,0 +1,11 @@
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_9/bin/Debug/netcoreapp2.1/Aufgabe_9.deps.json
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_9/bin/Debug/netcoreapp2.1/Aufgabe_9.runtimeconfig.json
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_9/bin/Debug/netcoreapp2.1/Aufgabe_9.runtimeconfig.dev.json
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_9/bin/Debug/netcoreapp2.1/Aufgabe_9.dll
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_9/bin/Debug/netcoreapp2.1/Aufgabe_9.pdb
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_9/obj/Debug/netcoreapp2.1/Aufgabe_9.csprojAssemblyReference.cache
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_9/obj/Debug/netcoreapp2.1/Aufgabe_9.csproj.CoreCompileInputs.cache
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_9/obj/Debug/netcoreapp2.1/Aufgabe_9.AssemblyInfoInputs.cache
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_9/obj/Debug/netcoreapp2.1/Aufgabe_9.AssemblyInfo.cs
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_9/obj/Debug/netcoreapp2.1/Aufgabe_9.dll
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_9/obj/Debug/netcoreapp2.1/Aufgabe_9.pdb
