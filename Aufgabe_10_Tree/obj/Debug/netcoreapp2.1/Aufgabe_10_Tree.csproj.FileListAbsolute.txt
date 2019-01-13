@@ -1,0 +1,11 @@
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_10_Tree/bin/Debug/netcoreapp2.1/Aufgabe_10_Tree.deps.json
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_10_Tree/bin/Debug/netcoreapp2.1/Aufgabe_10_Tree.runtimeconfig.json
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_10_Tree/bin/Debug/netcoreapp2.1/Aufgabe_10_Tree.runtimeconfig.dev.json
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_10_Tree/bin/Debug/netcoreapp2.1/Aufgabe_10_Tree.dll
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_10_Tree/bin/Debug/netcoreapp2.1/Aufgabe_10_Tree.pdb
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_10_Tree/obj/Debug/netcoreapp2.1/Aufgabe_10_Tree.csprojAssemblyReference.cache
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_10_Tree/obj/Debug/netcoreapp2.1/Aufgabe_10_Tree.csproj.CoreCompileInputs.cache
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_10_Tree/obj/Debug/netcoreapp2.1/Aufgabe_10_Tree.AssemblyInfoInputs.cache
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_10_Tree/obj/Debug/netcoreapp2.1/Aufgabe_10_Tree.AssemblyInfo.cs
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_10_Tree/obj/Debug/netcoreapp2.1/Aufgabe_10_Tree.dll
+/Users/henrijoss/Documents/GitHub/softwaredesign/Aufgabe_10_Tree/obj/Debug/netcoreapp2.1/Aufgabe_10_Tree.pdb
