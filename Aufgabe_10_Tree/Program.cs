@@ -26,9 +26,9 @@ namespace Aufgabe_10_Tree
             root.ForEach(Func);
         }
 
-        public static void Func(string node)
+        public static void Func(Tree<String> node)
         {
-            Console.Write(node + " | ");
+            Console.Write(node.data + " | ");
         }
     }
 }

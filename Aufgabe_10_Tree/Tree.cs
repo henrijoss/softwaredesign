@@ -7,7 +7,6 @@ namespace Aufgabe_10_Tree
     {
         public T data;
         public List<Tree<T>> children = new List<Tree<T>>();
-        public static bool notCalledYet = true; 
         public Tree<T> CreateNode(T Data)
         {
             Tree<T> newNode = new Tree<T>
@@ -34,18 +33,12 @@ namespace Aufgabe_10_Tree
             }
         }
 
-        public void ForEach(Action<string> function) 
+        public void ForEach(Action<Tree<T>> function) 
         {
-            if (notCalledYet)
-            {
-                Console.Write(this.data.ToString()  + " | ");
-            }
-            notCalledYet = false;
-
+            function(this);
             foreach (Tree<T> child in children)
             {
-                function(child.data.ToString());
-                child.ForEach(Program.Func);
+                child.ForEach(function);
             }
         }
     }
