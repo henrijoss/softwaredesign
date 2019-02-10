@@ -1,0 +1,201 @@
+[
+    {
+        "courseOfStudies": "OMB",
+        "semester": 1,
+        "obligatoryEvents": [
+            "Allgemeine Betriebswirtschaftslehre", 
+            "Grundlagen Mediengestaltung", 
+            "Medientechnik (OMB)", 
+            "MINT-Grundlagen", 
+            "Programmierung Praktikum (OMB)",
+            "Programmierung Vorlesung (OMB)"
+        ],
+        "numberOfStudents": 40
+    },
+    {
+        "courseOfStudies": "OMB",
+        "semester": 2,
+        "obligatoryEvents": [
+            "AV-Produktion", 
+            "Grundlagen Interaktiver Systeme (OMB)", 
+            "Medienwirtschaft", 
+            "Modellierung und Computergrafik", 
+            "User Experience Design Vorlesung",
+            "User Experience Design Praktikum (OMB)"
+        ],
+        "numberOfStudents": 32
+    },
+    {
+        "courseOfStudies": "OMB",
+        "semester": 4,
+        "obligatoryEvents": [
+            "Medienmanagement und E-Business", 
+            "Responsive Web Design Vorlesung", 
+            "Responsive Web Design Praktikum",
+            "Wissenschaftliches Arbeiten und Schreiben (OMB)",
+            "Webtechnologien",
+            "Projektmanagement und Soft Skills (OMB)"
+        ],
+        "numberOfStudents": 21
+    },
+    {
+        "courseOfStudies": "OMB",
+        "semester": 5,
+        "obligatoryEvents": [
+            "Interface Design Praktikum", 
+            "Interface Design Vorlesung",
+            "Streaming Anwendungen"
+        ],
+        "numberOfStudents": 17
+    },
+    {
+        "courseOfStudies": "OMB",
+        "semester": 6,
+        "obligatoryEvents": [
+            "Online-Produktmanagement und Online Marketing"
+        ],
+        "numberOfStudents": 15        
+    },
+    {
+        "courseOfStudies": "MIB",
+        "semester": 1,
+        "obligatoryEvents": [
+            "Allgemeine Betriebswirtschaftslehre",
+            "Grundlagen Mediengestaltung", 
+            "Medientechnik (MIB)",
+            "MINT-Grundlagen", 
+            "Programmierung Praktikum (MIB)",
+            "Programmierung Vorlesung (MIB)"
+        ],
+        "numberOfStudents": 40     
+    },
+    {
+        "courseOfStudies": "MIB",
+        "semester": 2,
+        "obligatoryEvents": [
+            "Modellierung und Computergrafik", 
+            "Grundlagen Interaktiver Systeme (MIB)",
+            "Mathematik und Simulation Vorlesung",
+            "Mathematik und Simulation Praktikum",
+            "Medienwirtschaft", 
+            "User Experience Design Vorlesung",
+            "User Experience Design Praktikum (MIB)"
+        ],
+        "numberOfStudents": 32     
+    },
+    {
+        "courseOfStudies": "MIB",
+        "semester": 4,
+        "obligatoryEvents": [
+            "Grafische Datenverarbeitung",
+            "Kommunikationssysteme",
+            "Softwaredesign Praktikum",
+            "Softwaredesign Seminar",
+            "Wissenschaftliches Arbeiten und Schreiben (MIB)",
+            "Projektmanagement und Soft Skills (MIB)"
+        ],
+        "numberOfStudents": 21     
+    },
+    {
+        "courseOfStudies": "MIB",
+        "semester": 5,
+        "obligatoryEvents": [
+            "Digitale Medienproduktion",
+            "Verteilte Anwendungen"
+        ],
+        "numberOfStudents": 17     
+    },
+    {
+        "courseOfStudies": "MIB",
+        "semester": 6,
+        "obligatoryEvents": [
+            "IT- und Medienproduktmanagement"
+        ],
+        "numberOfStudents": 15     
+    },
+    {
+        "courseOfStudies": "MKB",
+        "semester": 1,
+        "obligatoryEvents": [
+            "Allgemeine Betriebswirtschaftslehre", 
+            "Entwicklung Interaktiver Anwendungen",
+            "Grundlagen Mediengestaltung", 
+            "Grundlagen Medienkonzeption",
+            "Medientechnik (MKB)"
+        ],
+        "numberOfStudents": 40     
+    },
+    {
+        "courseOfStudies": "MKB",
+        "semester": 2,
+        "obligatoryEvents": [
+            "AV-Produktion", 
+            "Computergrafik / Mathematik Vorlesung",
+            "Computergrafik / Mathematik Praktikum",
+            "Entwicklung Interaktiver Anwendungen 2",
+            "Medienwirtschaft", 
+            "User Experience Design Vorlesung",
+            "User Experience Design Praktikum (MKB)"
+        ],
+        "numberOfStudents": 32     
+    },
+    {
+        "courseOfStudies": "MKB",
+        "semester": 4,
+        "obligatoryEvents": [
+            "E-Learning und Online Learning",
+            "Kreativkonzeption",
+            "Textkonzeption",
+            "Wissenschaftliches Arbeiten und Schreiben (MKB)",
+            "Projektmanagement und Soft Skills (MKB)"
+        ],
+        "numberOfStudents": 21    
+    },
+    {
+        "courseOfStudies": "MKB",
+        "semester": 5,
+        "obligatoryEvents": [
+            "Interface Design Praktikum", 
+            "Interface Design Vorlesung",
+            "Marketingkonzeption"
+        ],
+        "numberOfStudents": 17     
+    },
+    {
+        "courseOfStudies": "MKB",
+        "semester": 6,
+        "obligatoryEvents": [
+            "Medientheorie"
+        ],
+        "numberOfStudents": 15     
+    }
+]
+
+
+// Nur zu Testzwecken
+// [
+//     {
+//         "courseOfStudies": "studiengang",
+//         "semester": 1,
+//         "obligatoryEvents": [
+//             "Testkurs 1"
+//         ],
+//         "numberOfStudents": 15     
+//     },
+//     {
+//         "courseOfStudies": "studiengang",
+//         "semester": 2,
+//         "obligatoryEvents": [
+//             "Testkurs 2"
+//         ],
+//         "numberOfStudents": 15     
+//     },
+//     {
+//         "courseOfStudies": "studiengang",
+//         "semester": 3,
+//         "obligatoryEvents": [
+//             "Testkurs 3"
+//         ],
+//         "numberOfStudents": 15     
+//     }
+// ]

@@ -1,0 +1,146 @@
+[ 
+    {
+        "name": "I0.02",
+        "capacity": 40,
+        "equipment":[ "Kreidetafel", "Whiteboard" ]
+    },
+    // {
+    //     "name": "I0.07",
+    //     "capacity": 40,
+    //     "equipment":[ "Kreidetafel", "Whiteboard" ]
+    // },
+    // {
+    //     "name": "I0.08",
+    //     "capacity": 40,
+    //     "equipment":[ "Kreidetafel", "Whiteboard" ]
+    // },
+    // {
+    //     "name": "I0.13",
+    //     "capacity": 40,
+    //     "equipment":[ "Kreidetafel", "Whiteboard" ]
+    // },
+    // {
+    //     "name": "I0.14",
+    //     "capacity": 40,
+    //     "equipment":[ "Kreidetafel", "Whiteboard" ]
+    // },
+    // {
+    //     "name": "I0.15",
+    //     "capacity": 40,
+    //     "equipment":[ "Kreidetafel", "Whiteboard" ]
+    // },
+    // {
+    //     "name": "I0.16",
+    //     "capacity": 120,
+    //     "equipment": [ "Kreidetafel" ]
+    // },
+    {
+        "name": "I0.17",
+        "capacity": 120,
+        "equipment": [ "Kreidetafel" ]
+    },
+    {
+        "name": "I1.06",
+        "capacity": 40,
+        "equipment": [ "Kreidetafel" ]
+    },
+    // {
+    //     "name": "I1.07",
+    //     "capacity": 40,
+    //     "equipment": [ "Kreidetafel" ]
+    // },
+    // {
+    //     "name": "I1.10",
+    //     "capacity": 40,
+    //     "equipment": [ "Kreidetafel" ]
+    // },
+    // {
+    //     "name": "I1.17",
+    //     "capacity": 40,
+    //     "equipment": [ "Kreidetafel", "Computer" ]
+    // },
+    // {
+    //     "name": "I1.18",
+    //     "capacity": 40,
+    //     "equipment": [ "Kreidetafel", "Whiteboard" ]
+    // },
+    {
+        "name": "I1.19",
+        "capacity": 40,
+        "equipment": [ "Kreidetafel", "Whiteboard", "Computer" ]
+    },
+    {
+        "name": "I1.21",
+        "capacity": 40,
+        "equipment": [ "Kreidetafel" ]
+    },
+    {
+        "name": "L1.03",
+        "capacity": 40,
+        "equipment": [ "Kreidetafel", "Whiteboard" ]
+    },
+    {
+        "name": "L1.05",
+        "capacity": 40,
+        "equipment": [ "Kreidetafel" ]
+    },
+    {
+        "name": "L1.06",
+        "capacity": 40,
+        "equipment": [ "Kreidetafel", "Whiteboard", "Computer" ]
+    },
+    {
+        "name": "L2.05",
+        "capacity": 40,
+        "equipment": [ "Kreidetafel", "Whiteboard" ]
+    },
+    // {
+    //     "name": "L2.07",
+    //     "capacity": 40,
+    //     "equipment": [ "Kreidetafel" ]
+    // },
+    // {
+    //     "name": "L2.08",
+    //     "capacity": 40,
+    //     "equipment": [ "Kreidetafel", "Whiteboard" ]
+    // },
+    // {
+    //     "name": "L2.09",
+    //     "capacity": 40,
+    //     "equipment": [ "Kreidetafel", "Whiteboard" ]
+    // },
+    {
+        "name": "N0.04",
+        "capacity": 40,
+        "equipment": [ "Kreidetafel" ]
+    },
+    {
+        "name": "N1.05",
+        "capacity": 120,
+        "equipment": [ "Laborausstattung", "Kreidetafel", "Whiteboard" ]
+    }
+    // {
+    //     "name": "N1.06",
+    //     "capacity": 40,
+    //     "equipment": [ "Laborausstattung", "Kreidetafel", "Whiteboard" ]
+    // }
+]
+
+// Nur zu Testzwecken
+// [
+//     {
+//         "name": "testraum 1",
+//         "capacity": 40,
+//         "equipment": [ "Kreidetafel", "Whiteboard" ]
+//     },
+//     {
+//         "name": "testraum 2",
+//         "capacity": 40,
+//         "equipment": []
+//     },
+//     {
+//         "name": "testraum 3",
+//         "capacity": 40,
+//         "equipment": []
+//     }
+// ]

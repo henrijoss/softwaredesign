@@ -1,0 +1,110 @@
+[
+    {
+        "electiveCourseName": "Gamedesign Workshop",
+        "takesPlaceAtBlock": 2,
+        "roomUsed": "I0.02",
+        "professorName": "Prof. Jirka Dell´Oro-Friedl"
+    },
+    {
+        "electiveCourseName": "Spieleentwicklung",
+        "takesPlaceAtBlock": 10,
+        "roomUsed": "L1.06",
+        "professorName": "Prof. Jirka Dell´Oro-Friedl"
+    },
+    {
+        "electiveCourseName": "Introduction to Deep Learning",
+        "takesPlaceAtBlock": 3,
+        "roomUsed": "I1.19",
+        "professorName": "Prof. Dr. Ruxandra Lasowski"
+    },
+    {
+        "electiveCourseName": "Computerspielanalyse / Narration in Games",
+        "takesPlaceAtBlock": 3,
+        "roomUsed": "I0.02",
+        "professorName": "Beate Ehrmann"
+    },
+    {
+        "electiveCourseName": "CRM und E-Commerce im Multichannel-Kontext",
+        "takesPlaceAtBlock": 5,
+        "roomUsed": "I0.17",
+        "professorName": "Prof. Paul Maciejewski"
+    },
+    {
+        "electiveCourseName": "Crossmediale Medienproduktion",
+        "takesPlaceAtBlock": 3,
+        "roomUsed": "N1.05",
+        "professorName": "Ada Rhode"
+    },
+    {
+        "electiveCourseName": "Designmanagement & Digital Enterprise",
+        "takesPlaceAtBlock": 8,
+        "roomUsed": "I1.19",
+        "professorName": "Martin Dege"
+    },
+    {
+        "electiveCourseName": "Digital Set Extension in professionellen VFX Shots",
+        "takesPlaceAtBlock": 11,
+        "roomUsed": "I0.17",
+        "professorName": "Rainer Duda"
+    },
+    {
+        "electiveCourseName": "Life GLFtv",
+        "takesPlaceAtBlock": 9,
+        "roomUsed": "I1.21",
+        "professorName": "Ada Rhode"
+    },
+    {
+        "electiveCourseName": "Livemix und Sounddesign",
+        "takesPlaceAtBlock": 8,
+        "roomUsed": "I0.02",
+        "professorName": "Prof. Matthias Reusch"
+    },
+    {
+        "electiveCourseName": "Media Planning und Marketing Automation",
+        "takesPlaceAtBlock": 4,
+        "roomUsed": "I0.17",
+        "professorName": "Oliver Schmitt"
+    },
+    {
+        "electiveCourseName": "Mediale Gegenkultur",
+        "takesPlaceAtBlock": 2,
+        "roomUsed": "I0.17",
+        "professorName": "Prof. Dr. Christoph Zydorek"
+    },
+    {
+        "electiveCourseName": "Photographie",
+        "takesPlaceAtBlock": 22,
+        "roomUsed": "I1.06",
+        "professorName": "Prof. Fries, Christian"
+    },
+    {
+        "electiveCourseName": "Projektmanagement in Softwareprojekten",
+        "takesPlaceAtBlock": 22,
+        "roomUsed": "I0.02",
+        "professorName": "Phillipp Reif"
+    },
+    {
+        "electiveCourseName": "Recht der digitalen Medien und Medienethik",
+        "takesPlaceAtBlock": 29,
+        "roomUsed": "I0.02",
+        "professorName": "Marion Plum"
+    },
+    {
+        "electiveCourseName": "SEO, Affiliate und Influencer Marketing",
+        "takesPlaceAtBlock": 16,
+        "roomUsed": "I1.19",
+        "professorName": "Michael Firnkes"
+    },
+    {
+        "electiveCourseName": "Typografie 1",
+        "takesPlaceAtBlock": 15,
+        "roomUsed": "I0.02",
+        "professorName": "Sören Comes"
+    },
+    {
+        "electiveCourseName": "Zeichnen 1",
+        "takesPlaceAtBlock": 24,
+        "roomUsed": "I0.17",
+        "professorName": "Dirk Görtler"
+    }
+]

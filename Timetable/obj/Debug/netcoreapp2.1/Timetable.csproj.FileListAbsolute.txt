@@ -1,0 +1,11 @@
+/Users/henrijoss/Documents/GitHub/softwaredesign/Timetable/bin/Debug/netcoreapp2.1/Timetable.deps.json
+/Users/henrijoss/Documents/GitHub/softwaredesign/Timetable/bin/Debug/netcoreapp2.1/Timetable.runtimeconfig.json
+/Users/henrijoss/Documents/GitHub/softwaredesign/Timetable/bin/Debug/netcoreapp2.1/Timetable.runtimeconfig.dev.json
+/Users/henrijoss/Documents/GitHub/softwaredesign/Timetable/bin/Debug/netcoreapp2.1/Timetable.dll
+/Users/henrijoss/Documents/GitHub/softwaredesign/Timetable/bin/Debug/netcoreapp2.1/Timetable.pdb
+/Users/henrijoss/Documents/GitHub/softwaredesign/Timetable/obj/Debug/netcoreapp2.1/Timetable.csprojAssemblyReference.cache
+/Users/henrijoss/Documents/GitHub/softwaredesign/Timetable/obj/Debug/netcoreapp2.1/Timetable.csproj.CoreCompileInputs.cache
+/Users/henrijoss/Documents/GitHub/softwaredesign/Timetable/obj/Debug/netcoreapp2.1/Timetable.AssemblyInfoInputs.cache
+/Users/henrijoss/Documents/GitHub/softwaredesign/Timetable/obj/Debug/netcoreapp2.1/Timetable.AssemblyInfo.cs
+/Users/henrijoss/Documents/GitHub/softwaredesign/Timetable/obj/Debug/netcoreapp2.1/Timetable.dll
+/Users/henrijoss/Documents/GitHub/softwaredesign/Timetable/obj/Debug/netcoreapp2.1/Timetable.pdb

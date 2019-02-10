@@ -1,0 +1,236 @@
+[
+    {
+        "day": "Montag",
+        "blockIndex": 1,
+        "blockNumber": 1,
+        "blockTime": "07:45 - 09:15"
+    },
+    {
+        "day": "Montag",
+        "blockIndex": 2,
+        "blockNumber": 2,
+        "blockTime": "9:30-11:00"
+    },
+    {
+        "day": "Montag",
+        "blockIndex": 3,
+        "blockNumber": 3,
+        "blockTime": "11:15-12:45"
+    },
+    {
+        "day": "Montag",
+        "blockIndex": 4,
+        "blockNumber": 4,
+        "blockTime": "14:00-15:30"
+    },
+    {
+        "day": "Montag",
+        "blockIndex": 5,
+        "blockNumber": 5,
+        "blockTime": "15:45-17:15"
+    },
+    {
+        "day": "Montag",
+        "blockIndex": 6,
+        "blockNumber": 6,
+        "blockTime": "17:15-18:45"
+    },
+    {
+        "day": "Montag",
+        "blockIndex": 7,
+        "blockNumber": 7,
+        "blockTime": "19:00-20:30"
+    },
+    {
+        "day": "Dienstag",
+        "blockIndex": 8,
+        "blockNumber": 1,
+        "blockTime": "07:45 - 09:15"
+    },
+    {
+        "day": "Dienstag",
+        "blockIndex": 9,
+        "blockNumber": 2,
+        "blockTime": "9:30-11:00"
+    },
+    {
+        "day": "Dienstag",
+        "blockIndex": 10,
+        "blockNumber": 3,
+        "blockTime": "11:15-12:45"
+    },
+    {
+        "day": "Dienstag",
+        "blockIndex": 11,
+        "blockNumber": 4,
+        "blockTime": "14:00-15:30"
+    },
+    {
+        "day": "Dienstag",
+        "blockIndex": 12,
+        "blockNumber": 5,
+        "blockTime": "15:45-17:15"
+    },
+    {
+        "day": "Dienstag",
+        "blockIndex": 13,
+        "blockNumber": 6,
+        "blockTime": "17:15-18:45"
+    },
+    {
+        "day": "Dienstag",
+        "blockIndex": 14,
+        "blockNumber": 7,
+        "blockTime": "19:00-20:30"
+    },
+    {
+        "day": "Mittwoch",
+        "blockIndex": 15,
+        "blockNumber": 1,
+        "blockTime": "07:45 - 09:15"
+    },
+    {
+        "day": "Mittwoch",
+        "blockIndex": 16,
+        "blockNumber": 2,
+        "blockTime": "9:30-11:00"
+    },
+    {
+        "day": "Mittwoch",
+        "blockIndex": 17,
+        "blockNumber": 3,
+        "blockTime": "11:15-12:45"
+    },
+    {
+        "day": "Mittwoch",
+        "blockIndex": 18,
+        "blockNumber": 4,
+        "blockTime": "14:00-15:30"
+    },
+    {
+        "day": "Mittwoch",
+        "blockIndex": 19,
+        "blockNumber": 5,
+        "blockTime": "15:45-17:15"
+    },
+    {
+        "day": "Mittwoch",
+        "blockIndex": 20,
+        "blockNumber": 6,
+        "blockTime": "17:15-18:45"
+    },
+    {
+        "day": "Mittwoch",
+        "blockIndex": 21,
+        "blockNumber": 7,
+        "blockTime": "19:00-20:30"
+    },
+    {
+        "day": "Donnerstag",
+        "blockIndex": 22,
+        "blockNumber": 1,
+        "blockTime": "07:45 - 09:15"
+    },
+    {
+        "day": "Donnerstag",
+        "blockIndex": 23,
+        "blockNumber": 2,
+        "blockTime": "9:30-11:00"
+    },
+    {
+        "day": "Donnerstag",
+        "blockIndex": 24,
+        "blockNumber": 3,
+        "blockTime": "11:15-12:45"
+    },
+    {
+        "day": "Donnerstag",
+        "blockIndex": 25,
+        "blockNumber": 4,
+        "blockTime": "14:00-15:30"
+    },
+    {
+        "day": "Donnerstag",
+        "blockIndex": 26,
+        "blockNumber": 5,
+        "blockTime": "15:45-17:15"
+    },
+    {
+        "day": "Donnerstag",
+        "blockIndex": 27,
+        "blockNumber": 6,
+        "blockTime": "17:15-18:45"
+    },
+    {
+        "day": "Donnerstag",
+        "blockIndex": 28,
+        "blockNumber": 7,
+        "blockTime": "19:00-20:30"
+    },
+    {
+        "day": "Freitag",
+        "blockIndex": 29,
+        "blockNumber": 1,
+        "blockTime": "07:45 - 09:15"
+    },
+    {
+        "day": "Freitag",
+        "blockIndex": 30,
+        "blockNumber": 2,
+        "blockTime": "9:30-11:00"
+    },
+    {
+        "day": "Freitag",
+        "blockIndex": 31,
+        "blockNumber": 3,
+        "blockTime": "11:15-12:45"
+    },
+    {
+        "day": "Freitag",
+        "blockIndex": 32,
+        "blockNumber": 4,
+        "blockTime": "14:00-15:30"
+    },
+    {
+        "day": "Freitag",
+        "blockIndex": 33,
+        "blockNumber": 5,
+        "blockTime": "15:45-17:15"
+    },
+    {
+        "day": "Freitag",
+        "blockIndex": 34,
+        "blockNumber": 6,
+        "blockTime": "17:15-18:45"
+    },
+    {
+        "day": "Freitag",
+        "blockIndex": 35,
+        "blockNumber": 7,
+        "blockTime": "19:00-20:30"
+    }
+]
+
+
+
+// Nur zu Testzwecken
+// [
+//     {
+//         "day": "Montag",
+//         "blockIndex": 1,
+//         "blockNumber": 1,
+//         "blockTime": "07:45 - 09:15"
+//     },
+//     {
+//         "day": "Montag",
+//         "blockIndex": 2,
+//         "blockNumber": 2,
+//         "blockTime": "9:30-11:00"
+//     },
+//     {
+//         "day": "Montag",
+//         "blockIndex": 3,
+//         "blockNumber": 3,
+//         "blockTime": "11:15-12:45"
+//     }
+// ]

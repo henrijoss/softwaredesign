@@ -1,0 +1,340 @@
+[ 
+    {
+        "eventName": "Allgemeine Betriebswirtschaftslehre",
+        "equipment": [
+            "Kreidetafel"
+        ]
+    },
+    {
+        "eventName": "Grundlagen Mediengestaltung",
+        "equipment": [
+            "Kreidetafel" 
+        ]
+    },
+    {
+        "eventName": "Medientechnik (OMB)",
+        "equipment": [
+            "Laborausstattung" 
+        ]
+    },
+    {
+        "eventName": "MINT-Grundlagen",
+        "equipment": [
+            "Kreidetafel" 
+        ]
+    },
+    {
+        "eventName": "Programmierung Praktikum (OMB)",
+        "equipment": [ 
+            "Computer",
+            "Kreidetafel"
+        ]
+    },
+    {
+        "eventName": "Programmierung Vorlesung (OMB)",
+        "equipment": [ 
+            "Computer",
+            "Kreidetafel"
+        ]
+    },
+    {
+        "eventName": "AV-Produktion",
+        "equipment": [
+            "Laborausstattung" 
+        ]
+    },
+    {
+        "eventName": "Grundlagen Interaktiver Systeme (OMB)",
+        "equipment": [ 
+            "Computer",
+            "Kreidetafel"
+        ]
+    },
+    {
+        "eventName": "Medienwirtschaft",
+        "equipment": [
+            "Kreidetafel" 
+        ]
+    },
+    {
+        "eventName": "Modellierung und Computergrafik",
+        "equipment": [
+            "Kreidetafel" 
+        ]
+    },
+    {
+        "eventName": "User Experience Design Vorlesung",
+        "equipment": [
+            "Kreidetafel" 
+        ]
+    },
+    {
+        "eventName": "User Experience Design Praktikum (OMB)",
+        "equipment": [
+            "Kreidetafel" 
+        ]
+    },
+    {
+        "eventName": "User Experience Design Praktikum (MIB)",
+        "equipment": [
+            "Kreidetafel" 
+        ]
+    },
+    {
+        "eventName": "User Experience Design Praktikum (MKB)",
+        "equipment": [
+            "Kreidetafel" 
+        ]
+    },
+    {
+        "eventName": "Medienmanagement und E-Business",
+        "equipment": [
+            "Kreidetafel"
+        ]
+    },
+    {
+        "eventName": "Responsive Web Design Vorlesung",
+        "equipment": [
+        ]
+    },
+    {
+        "eventName": "Responsive Web Design Praktikum",
+        "equipment": [
+        ]
+    },
+    {
+        "eventName": "Wissenschaftliches Arbeiten und Schreiben (OMB)",
+        "equipment": [
+        ]
+    },
+    {
+        "eventName": "Wissenschaftliches Arbeiten und Schreiben (MKB)",
+        "equipment": [
+        ]
+    },
+    {
+        "eventName": "Wissenschaftliches Arbeiten und Schreiben (MIB)",
+        "equipment": [
+        ]
+    },
+    {
+        "eventName": "Webtechnologien",
+        "equipment": [ 
+        ]
+    },
+    {
+        "eventName": "Interface Design Vorlesung",
+        "equipment": [
+        ]
+    },
+    {
+        "eventName": "Interface Design Praktikum",
+        "equipment": [
+        ]
+    },
+    {
+        "eventName": "Streaming Anwendungen",
+        "equipment": [
+        ]
+    },
+    {
+        "eventName": "Online-Produktmanagement und Online Marketing",
+        "equipment": [
+            "Kreidetafel"
+        ]
+    },
+    {
+        "eventName": "Medientechnik (MIB)",
+        "equipment": [
+            "Laborausstattung" 
+        ]
+    },
+    {
+        "eventName": "Programmierung Praktikum (MIB)",
+        "equipment": [
+            "Kreidetafel",
+            "Computer"
+        ]
+    },
+    {
+        "eventName": "Programmierung Vorlesung (MIB)",
+        "equipment": [
+            "Kreidetafel"
+        ]
+    },
+    {
+        "eventName": "Grundlagen Interaktiver Systeme (MIB)",
+        "equipment": [
+            "Kreidetafel",
+            "Computer"
+        ]
+    },
+    {
+        "eventName": "Mathematik und Simulation Vorlesung",
+        "equipment": [
+            "Kreidetafel"
+        ]
+    },
+    {
+        "eventName": "Mathematik und Simulation Praktikum",
+        "equipment": [
+            "Kreidetafel",
+            "Computer"
+        ]
+    },
+    {
+        "eventName": "Grafische Datenverarbeitung",
+        "equipment": [
+            "Kreidetafel",
+            "Computer"
+        ]
+    },
+    {
+        "eventName": "Kommunikationssysteme",
+        "equipment": [
+            "Kreidetafel"
+        ]
+    },
+    {
+        "eventName": "Softwaredesign Seminar",
+        "equipment": [
+            "Kreidetafel"
+        ]
+    },
+    {
+        "eventName": "Softwaredesign Praktikum",
+        "equipment": [
+            "Kreidetafel",
+            "Computer"
+        ]
+    },
+    {
+        "eventName": "Digitale Medienproduktion",
+        "equipment": [
+            "Kreidetafel",
+            "Whiteboard"
+        ]
+    },
+    {
+        "eventName": "Verteilte Anwendungen",
+        "equipment": [
+            "Kreidetafel"
+        ]
+    },
+    {
+        "eventName": "IT- und Medienproduktmanagement",
+        "equipment": [
+            "Kreidetafel"
+        ]
+    },
+    {
+        "eventName": "Entwicklung Interaktiver Anwendungen",
+        "equipment": [
+            "Kreidetafel",
+            "Computer"
+        ]
+    },
+    {
+        "eventName": "Grundlagen Medienkonzeption",
+        "equipment": [
+        ]
+    },
+    {
+        "eventName": "Medientechnik (MKB)",
+        "equipment": [
+            "Kreidetafel",
+            "Laborausstattung" 
+        ]
+    },
+    {
+        "eventName": "Computergrafik / Mathematik Vorlesung",
+        "equipment": [
+            "Kreidetafel"
+        ]
+    },
+    {
+        "eventName": "Computergrafik / Mathematik Praktikum",
+        "equipment": [
+            "Kreidetafel"
+        ]
+    },
+    {
+        "eventName": "Entwicklung Interaktiver Anwendungen 2",
+        "equipment": [
+            "Kreidetafel",
+            "Computer"
+        ]
+    },
+    {
+        "eventName": "E-Learning und Online Learning",
+        "equipment": [
+        ]
+    },
+    {
+        "eventName": "Kreativkonzeption",
+        "equipment": [
+            "Kreidetafel",
+            "Whiteboard"
+        ]
+    },
+    {
+        "eventName": "Textkonzeption",
+        "equipment": [
+        ]
+    },
+    {
+        "eventName": "Marketingkonzeption",
+        "equipment": [
+            "Kreidetafel"
+        ]
+    },
+    {
+        "eventName": "Medientheorie",
+        "equipment": [
+        ]
+    },
+    {
+        "eventName": "Projektmanagement und Soft Skills (OMB)",
+        "equipment": [
+            "Kreidetafel",
+            "Whiteboard"
+        ]
+    },
+    {
+        "eventName": "Projektmanagement und Soft Skills (MIB)",
+        "equipment": [
+            "Kreidetafel",
+            "Whiteboard"
+        ]
+    },
+    {
+        "eventName": "Projektmanagement und Soft Skills (MKB)",
+        "equipment": [
+            "Kreidetafel",
+            "Whiteboard"
+        ]
+    }
+]
+
+//Nur zu Testzwecken
+// [
+//     {
+//         "eventName": "Testkurs 1",
+//         "equipment": [
+//             "Kreidetafel",
+//             "Whiteboard"
+//         ]
+//     },
+//     {
+//         "eventName": "Testkurs 2",
+//         "equipment": [
+//         ]
+//     },
+//     {
+//         "eventName": "Testkurs 3",
+//         "equipment": [
+//             "Kreidetafel",
+//             "Whiteboard"
+//         ]
+//     }
+// ]
